@@ -5,3 +5,6 @@
 Тема: Основи роботи з GitHub.
 ## Автор
 Чухно Катерина
+<footer>
+ <p>© 2026 Web Technologies</p>
+</footer>
